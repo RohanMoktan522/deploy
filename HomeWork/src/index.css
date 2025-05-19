@@ -1,0 +1,8 @@
+.pp{
+    height: 300px;
+    object-fit: contain;
+}
+.list-group-item a{
+    text-decoration: none;
+    color: #000;
+}
